@@ -18,17 +18,17 @@ This project includes a `frontend/components` folder containing several React co
 
 ### Task 1: Project Set Up
 
-- [ ] Clone the repository to your machine using your terminal.
-- [ ] CD into the project base directory.
-- [ ] Download project dependencies by running `npm install`.
-- [ ] Start up the app using `npm run dev`.
-- [ ] Push commits: `git push origin main`.
+- [X] Clone the repository to your machine using your terminal.
+- [X] CD into the project base directory.
+- [X] Download project dependencies by running `npm install`.
+- [X] Start up the app using `npm run dev`.
+- [X] Push commits: `git push origin main`.
 
 ### Task 2: Minimum Viable Product
 
 1. Each component has the required slices of state.
-2. Each component's event handlers allow the user of the app to update state.
-3. Updated state is correctly reflected in the DOM for each component.
+2. Each componenct's event handlers allow the user of the app to update state.
+3. Updated state is correctly refleted in the DOM for each component.
 
 #### Steps
 
