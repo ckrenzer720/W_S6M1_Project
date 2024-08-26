@@ -23,7 +23,8 @@ h2 {
 #root {
   overflow-y: auto;
   display: flex;
-  flex-direction: column;
+  flex-direction: inherit;
+  justify-content: center;
   align-items: center;
   width: 100%;
   border-top: 1px solid grey;
