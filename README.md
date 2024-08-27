@@ -32,9 +32,9 @@ This project includes a `frontend/components` folder containing several React co
 
 #### Steps
 
-- [ ] You will add functionality to all components inside inside `frontend/components`.
-- [ ] Work on the components **in the same order in which they display in Chrome** (to go from the easiest challenge to the hardest).
-- [ ] Each file includes a design file and a set of instructions. The instructions are generally the following:
+- [X] You will add functionality to all components inside inside `frontend/components`.
+- [X] Work on the components **in the same order in which they display in Chrome** (to go from the easiest challenge to the hardest).
+- [X] Each file includes a design file and a set of instructions. The instructions are generally the following:
   - Watch the design file showing the finished component, and think about how much state is needed.
   - Create the necessary slices of component state using the state hook.
   - Fix the JSX so it displays information derived from state (instead of hard-coded data).
@@ -42,4 +42,4 @@ This project includes a `frontend/components` folder containing several React co
 
 ## Submission Format
 
-- [ ] Submit a link to your repo in canvas.
+- [X] Submit a link to your repo in canvas.
